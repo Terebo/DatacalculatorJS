@@ -7,8 +7,11 @@ calcDate(date, amountAdded)
 date = day,month,fullyear
 
 !the commas are important, don't omit them!
+
 day: starts at 1
+
 month: starts at 0
+
 year: starts at 1
 
 amountAdded = integer
